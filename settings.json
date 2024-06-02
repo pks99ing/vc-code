@@ -1,0 +1,88 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+ 
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  // "editor.fontVariations": false,
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.graph.layout": "editor",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.sideBar.location": "right",
+  // "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.colorCustomizations": {
+    "editorSuggestWidget.selectedBackground": "#231739",
+    "sideBar.background": "#191521",
+    "list.activeSelectionBackground": "#231739",
+    "list.inactiveFocusBackground": "#231739",
+    "list.focusBackground": "#231739",
+    "list.hoverBackground": "#231739",
+    "terminalCursor.foreground":"#C45DFF"
+  },
+  "editor.minimap.enabled": false,
+  "editor.guides.indentation": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "gutter",
+  "editor.scrollbar.verticalScrollbarSize": 7,
+  "editor.overviewRulerBorder": false,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 2,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.8,
+  "explorer.compactFolders": false,
+  "terminal.integrated.fontFamily": "Dank Mono",
+  "terminal.integrated.lineHeight": 1.7,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+  "apc.font.family": "Dank Mono",
+  "apc.menubar.compact": true,
+  "apc.activityBar": {
+    "position": "bottom",
+    "size": 30,
+    "itemSize": 30,
+    "itemMargin": 10
+  },
+  "apc.header": {
+    "height": 30
+  },
+  "apc.sidebar.titlebar": {
+    "height": 30,
+    "fontSize": 12
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 20,
+    "fontSize": 10
+  },
+  "editor.fontSize": 15,
+  "apc.listRow": {
+    "lists": [
+      "explorer-folders-view",
+      "quick-input-list",
+      "results"
+    ],
+    "height": 25,
+    "fontSize": 12
+  },
+  "animations.Enabled": true,
+  "vscode_custom_css.imports": [
+    "file:///home/codeclouds-pursotam/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ]
+}
